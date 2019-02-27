@@ -48,9 +48,10 @@ a:active {
 
 .container {
     width: 960px;
-    margin: 0px 140px 100px 140px;
+    margin: auto;
+    margin-bottom: 100px;
     height: auto;
-    border: 1px solid #666666;
+    border: 1px solid #dddddd;
     overflow: auto;
     padding: 20px;
     background-color: #ffffff;
